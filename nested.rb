@@ -99,8 +99,7 @@ def changing_alan
         }
      }
 
-     alans_new_info = "GUI"
-		 programmer_hash[:known_for] = alans_new_info
+		 programmer_hash[:known_for] = "GU!"
 		 return programmer_hash
 
 end
